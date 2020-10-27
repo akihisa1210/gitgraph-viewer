@@ -1,0 +1,1768 @@
+[
+  {
+    "refs": [
+      "HEAD",
+      "typescript",
+      "origin/typescript"
+    ],
+    "hash": "f9346789a71b4b09b32bb4d4b8838f477fd0848a",
+    "hashAbbrev": "f934678",
+    "tree": "cc0cd2853208c0f0a1bc14d597c5b86d0b8b39b4",
+    "treeAbbrev": "cc0cd28",
+    "parents": [
+      "5b5443862f2c56b74771b2065f19621a57194cc5"
+    ],
+    "parentsAbbrev": [
+      "5b54438"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603554014000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603554014000
+    },
+    "subject": "use function in index.ts",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 7,
+        "deletions": 7,
+        "file": "src/index.ts"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "5b5443862f2c56b74771b2065f19621a57194cc5",
+    "hashAbbrev": "5b54438",
+    "tree": "832051e08b4c608b125fc72ecd3130d079f54b06",
+    "treeAbbrev": "832051e",
+    "parents": [
+      "8966df985ba527ea999286fc056597f09f9897f0"
+    ],
+    "parentsAbbrev": [
+      "8966df9"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603552553000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603553032000
+    },
+    "subject": "add how to buld to README",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 6,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "8966df985ba527ea999286fc056597f09f9897f0",
+    "hashAbbrev": "8966df9",
+    "tree": "d51a1fc6b0744256ac5bf17300d7d9b54fea3c20",
+    "treeAbbrev": "d51a1fc",
+    "parents": [
+      "a0665dd1fde0ea3e343c45a515cf3da0d1daef87"
+    ],
+    "parentsAbbrev": [
+      "a0665dd"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603550687000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603552402000
+    },
+    "subject": "specify directory name to download build artifact",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 5,
+        "deletions": 3,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "a0665dd1fde0ea3e343c45a515cf3da0d1daef87",
+    "hashAbbrev": "a0665dd",
+    "tree": "f172aebf4330e7f2feeda562a186326f1668a6c4",
+    "treeAbbrev": "f172aeb",
+    "parents": [
+      "fc18287b6de1be197dd97f5998f4937cd86ad8dd"
+    ],
+    "parentsAbbrev": [
+      "fc18287"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603549170000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603549408000
+    },
+    "subject": "fix the name of actions/download-artifact",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 2,
+        "deletions": 2,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "fc18287b6de1be197dd97f5998f4937cd86ad8dd",
+    "hashAbbrev": "fc18287",
+    "tree": "404cb6510059a0490b0b0b868f8442d05723033f",
+    "treeAbbrev": "404cb65",
+    "parents": [
+      "26efe494bc97d46af0820e2de0e79a4ee351913e"
+    ],
+    "parentsAbbrev": [
+      "26efe49"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603548934000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603548934000
+    },
+    "subject": "fix dist path on GitHub Actions runner",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 3,
+        "deletions": 3,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "26efe494bc97d46af0820e2de0e79a4ee351913e",
+    "hashAbbrev": "26efe49",
+    "tree": "cc80c6b056c1dfac56d434251da73e487b8b640f",
+    "treeAbbrev": "cc80c6b",
+    "parents": [
+      "0cfbf2218c39772a22ad40a9545d145564b02c8e"
+    ],
+    "parentsAbbrev": [
+      "0cfbf22"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603548445000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603548445000
+    },
+    "subject": "add build job to CI",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 37,
+        "deletions": 20,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "0cfbf2218c39772a22ad40a9545d145564b02c8e",
+    "hashAbbrev": "0cfbf22",
+    "tree": "3754e93651d4612ca912ed2afd100561a9b06c23",
+    "treeAbbrev": "3754e93",
+    "parents": [
+      "4b04ebdb799c7bf66343a4245ade89b2c89c3404"
+    ],
+    "parentsAbbrev": [
+      "4b04ebd"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603528354000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603528354000
+    },
+    "subject": "fix module resolution alias",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 3,
+        "deletions": 0,
+        "file": "webpack.config.js"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "4b04ebdb799c7bf66343a4245ade89b2c89c3404",
+    "hashAbbrev": "4b04ebd",
+    "tree": "d2c1fa1c0e292c0c5af0fd50bd80c524920836d9",
+    "treeAbbrev": "d2c1fa1",
+    "parents": [
+      "b44776d034ebd62807d7a05e93f5e45517666413"
+    ],
+    "parentsAbbrev": [
+      "b44776d"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603527247000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603527247000
+    },
+    "subject": "use type guard instead of cast",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 14,
+        "deletions": 11,
+        "file": "src/index.ts"
+      },
+      {
+        "additions": 3,
+        "deletions": 0,
+        "file": "src/roulette.ts"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "b44776d034ebd62807d7a05e93f5e45517666413",
+    "hashAbbrev": "b44776d",
+    "tree": "3c3bca3c22e07263c9eb89177b43eb4d73e583be",
+    "treeAbbrev": "3c3bca3",
+    "parents": [
+      "dc8e18dacefd52d712c73285b301dfbb6c3d8cfb"
+    ],
+    "parentsAbbrev": [
+      "dc8e18d"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603524457000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603524663000
+    },
+    "subject": "deploy test",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 3,
+        "deletions": 1,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "dc8e18dacefd52d712c73285b301dfbb6c3d8cfb",
+    "hashAbbrev": "dc8e18d",
+    "tree": "8053b4724fc6323f925eed8527348669ebd418ec",
+    "treeAbbrev": "8053b47",
+    "parents": [
+      "90edcef963846d90bb141773003d53423fe0f801"
+    ],
+    "parentsAbbrev": [
+      "90edcef"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603523822000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603523822000
+    },
+    "subject": "build before e2e test",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 2,
+        "deletions": 0,
+        "file": ".github/workflows/continuous-delivery.yml"
+      },
+      {
+        "additions": 1,
+        "deletions": 1,
+        "file": "docker-compose.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "90edcef963846d90bb141773003d53423fe0f801",
+    "hashAbbrev": "90edcef",
+    "tree": "194b75874ab4fe3354378bc6d13a65f53c534425",
+    "treeAbbrev": "194b758",
+    "parents": [
+      "a7dc71331fe79b73c6db71b96500f0956a04b073"
+    ],
+    "parentsAbbrev": [
+      "a7dc713"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603522613000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1603522613000
+    },
+    "subject": "introduce typescript and webpack",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 9,
+        "deletions": 2,
+        "file": ".eslintrc.js"
+      },
+      {
+        "additions": 4,
+        "deletions": 3,
+        "file": ".gitignore"
+      },
+      {
+        "additions": 8106,
+        "deletions": 393,
+        "file": "package-lock.json"
+      },
+      {
+        "additions": 15,
+        "deletions": 2,
+        "file": "package.json"
+      },
+      {
+        "additions": 0,
+        "deletions": 13,
+        "file": "public/index.js"
+      },
+      {
+        "additions": 19,
+        "deletions": 0,
+        "file": "src/index.ts"
+      },
+      {
+        "additions": 12,
+        "deletions": 0,
+        "file": "tsconfig.eslint.json"
+      },
+      {
+        "additions": 27,
+        "deletions": 0,
+        "file": "tsconfig.json"
+      },
+      {
+        "additions": 89,
+        "deletions": 0,
+        "file": "webpack.config.js"
+      }
+    ]
+  },
+  {
+    "refs": [
+      "tag: 1.0.0",
+      "origin/master",
+      "origin/HEAD",
+      "master"
+    ],
+    "hash": "a7dc71331fe79b73c6db71b96500f0956a04b073",
+    "hashAbbrev": "a7dc713",
+    "tree": "c6d8b4f444e6886aaabd2f29fee8f4366e662a2d",
+    "treeAbbrev": "c6d8b4f",
+    "parents": [
+      "7e25531b2d4bca8faf132f27fe203e67711ceb52",
+      "09bbc2b8b43f66f26244bc54ed1f69c2eab3caa7"
+    ],
+    "parentsAbbrev": [
+      "7e25531",
+      "09bbc2b"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1602688510000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1602688510000
+    },
+    "subject": "Merge pull request #27 from akihisa1210/update-url-in-readme",
+    "body": "update site URL in README.md",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "09bbc2b8b43f66f26244bc54ed1f69c2eab3caa7",
+    "hashAbbrev": "09bbc2b",
+    "tree": "c6d8b4f444e6886aaabd2f29fee8f4366e662a2d",
+    "treeAbbrev": "c6d8b4f",
+    "parents": [
+      "7e25531b2d4bca8faf132f27fe203e67711ceb52"
+    ],
+    "parentsAbbrev": [
+      "7e25531"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602688354000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602688354000
+    },
+    "subject": "update site URL in README.md",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 1,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "7e25531b2d4bca8faf132f27fe203e67711ceb52",
+    "hashAbbrev": "7e25531",
+    "tree": "68eca4aba9a3aa9c0b6769f02cedb343f402a2cb",
+    "treeAbbrev": "68eca4a",
+    "parents": [
+      "d788dbb2fefa7a07dbf14578e7f454a2909b1527",
+      "a082e74f0c6d5dcb66e66140c7fe69eab27edb76"
+    ],
+    "parentsAbbrev": [
+      "d788dbb",
+      "a082e74"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1602687507000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1602687507000
+    },
+    "subject": "Merge pull request #26 from akihisa1210/fix-actions-warning",
+    "body": "fix warning of Actions",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "a082e74f0c6d5dcb66e66140c7fe69eab27edb76",
+    "hashAbbrev": "a082e74",
+    "tree": "68eca4aba9a3aa9c0b6769f02cedb343f402a2cb",
+    "treeAbbrev": "68eca4a",
+    "parents": [
+      "d788dbb2fefa7a07dbf14578e7f454a2909b1527"
+    ],
+    "parentsAbbrev": [
+      "d788dbb"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602687013000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602687346000
+    },
+    "subject": "fix warning of Actions",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 1,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "d788dbb2fefa7a07dbf14578e7f454a2909b1527",
+    "hashAbbrev": "d788dbb",
+    "tree": "3c6f0a1ac8a61b1362ad21f05a027bf59fb7fd82",
+    "treeAbbrev": "3c6f0a1",
+    "parents": [
+      "53010c988304e05c221d06c2bf7d04b7ea11cb47",
+      "eba69b78b8714c8adcfa335dfee2b1b951cc114b"
+    ],
+    "parentsAbbrev": [
+      "53010c9",
+      "eba69b7"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1602686027000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1602686027000
+    },
+    "subject": "Merge pull request #25 from akihisa1210/deploy-with-gh-pages",
+    "body": "Introduce gh-pages",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "eba69b78b8714c8adcfa335dfee2b1b951cc114b",
+    "hashAbbrev": "eba69b7",
+    "tree": "3c6f0a1ac8a61b1362ad21f05a027bf59fb7fd82",
+    "treeAbbrev": "3c6f0a1",
+    "parents": [
+      "01c173112e56ef22532d89ebb119e57af1c87573"
+    ],
+    "parentsAbbrev": [
+      "01c1731"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685887000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685887000
+    },
+    "subject": "deploy only on master branch",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 1,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "01c173112e56ef22532d89ebb119e57af1c87573",
+    "hashAbbrev": "01c1731",
+    "tree": "db449a010efc871761976fe35c53497c7d2c558e",
+    "treeAbbrev": "db449a0",
+    "parents": [
+      "eccd8ad0740f843a4337e9a3c356cbaf8365be44"
+    ],
+    "parentsAbbrev": [
+      "eccd8ad"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685612000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685612000
+    },
+    "subject": "fix warning",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 6,
+        "deletions": 6,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [
+      "origin/gh-pages"
+    ],
+    "hash": "6efc57f5b708d025d693001da8ae2588ea4999d9",
+    "hashAbbrev": "6efc57f",
+    "tree": "1532bff4905ce2eb0466f279774336e225b16eeb",
+    "treeAbbrev": "1532bff",
+    "parents": [
+      "26b8da2637bd47df6817b352a6ae533367818d5f"
+    ],
+    "parentsAbbrev": [
+      "26b8da2"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685217000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685217000
+    },
+    "subject": "deploy: eccd8ad0740f843a4337e9a3c356cbaf8365be44",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 0,
+        "deletions": 0,
+        "file": ".nojekyll"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "eccd8ad0740f843a4337e9a3c356cbaf8365be44",
+    "hashAbbrev": "eccd8ad",
+    "tree": "e170d039ea64b6760739d3555151ad40d2a3e96d",
+    "treeAbbrev": "e170d03",
+    "parents": [
+      "7a414ddb5c710be67d277f54c4c410bbb3f1c99e"
+    ],
+    "parentsAbbrev": [
+      "7a414dd"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685031000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602685031000
+    },
+    "subject": "use existing action for deploy",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 5,
+        "deletions": 2,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "7a414ddb5c710be67d277f54c4c410bbb3f1c99e",
+    "hashAbbrev": "7a414dd",
+    "tree": "4cc02ab3fc942747ff736b2e7ae198380b506665",
+    "treeAbbrev": "4cc02ab",
+    "parents": [
+      "f7277b202a8fa88e30514774e529c3746e82e040"
+    ],
+    "parentsAbbrev": [
+      "f7277b2"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602684283000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602684283000
+    },
+    "subject": "deploy test",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 2,
+        "deletions": 1,
+        "file": ".github/workflows/continuous-delivery.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "f7277b202a8fa88e30514774e529c3746e82e040",
+    "hashAbbrev": "f7277b2",
+    "tree": "339c46eb2feb4a254554b46d1940ecbaed6d68ae",
+    "treeAbbrev": "339c46e",
+    "parents": [
+      "53010c988304e05c221d06c2bf7d04b7ea11cb47"
+    ],
+    "parentsAbbrev": [
+      "53010c9"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602683223000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602683637000
+    },
+    "subject": "Introduce gh-pages",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 27,
+        "deletions": 1,
+        "file": ".github/workflows/{continuous-integration.yml => continuous-delivery.yml}"
+      },
+      {
+        "additions": 309,
+        "deletions": 0,
+        "file": "package-lock.json"
+      },
+      {
+        "additions": 3,
+        "deletions": 1,
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "26b8da2637bd47df6817b352a6ae533367818d5f",
+    "hashAbbrev": "26b8da2",
+    "tree": "a965d87558e1068250d2c43216918ab03ceb0a32",
+    "treeAbbrev": "a965d87",
+    "parents": [],
+    "parentsAbbrev": [],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602682840000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1602682840000
+    },
+    "subject": "Updates",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 42,
+        "deletions": 0,
+        "file": "index.html"
+      },
+      {
+        "additions": 13,
+        "deletions": 0,
+        "file": "index.js"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "53010c988304e05c221d06c2bf7d04b7ea11cb47",
+    "hashAbbrev": "53010c9",
+    "tree": "ad6fc52219ad17e74b7aaad1ecf6241699a8e793",
+    "treeAbbrev": "ad6fc52",
+    "parents": [
+      "219838b578d78aef2f2e2e4ede37f6c6685f88ba",
+      "32a45a4463e93185a587cc9c1e86b18755eb4d4f"
+    ],
+    "parentsAbbrev": [
+      "219838b",
+      "32a45a4"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1600013811000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1600013811000
+    },
+    "subject": "Merge pull request #22 from akihisa1210/fix-conditional-test",
+    "body": "Fix conditional test",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "32a45a4463e93185a587cc9c1e86b18755eb4d4f",
+    "hashAbbrev": "32a45a4",
+    "tree": "ad6fc52219ad17e74b7aaad1ecf6241699a8e793",
+    "treeAbbrev": "ad6fc52",
+    "parents": [
+      "b6b72ab1baba73f8fbadd1a5ba7637f7e83078e6"
+    ],
+    "parentsAbbrev": [
+      "b6b72ab"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1600013715000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1600013715000
+    },
+    "subject": "Run local server foreground",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 3,
+        "deletions": 2,
+        "file": "README.md"
+      },
+      {
+        "additions": 1,
+        "deletions": 1,
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "b6b72ab1baba73f8fbadd1a5ba7637f7e83078e6",
+    "hashAbbrev": "b6b72ab",
+    "tree": "66a4066042118d2936ac9eec7bf1627cbad924f7",
+    "treeAbbrev": "66a4066",
+    "parents": [
+      "219838b578d78aef2f2e2e4ede37f6c6685f88ba"
+    ],
+    "parentsAbbrev": [
+      "219838b"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1600013223000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1600013223000
+    },
+    "subject": "use if statement for conditional test",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 13,
+        "deletions": 1,
+        "file": "cypress/integration/roulette.js"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "219838b578d78aef2f2e2e4ede37f6c6685f88ba",
+    "hashAbbrev": "219838b",
+    "tree": "0907b6f63f73b6895654c1728cdf3ba5c9673125",
+    "treeAbbrev": "0907b6f",
+    "parents": [
+      "15e47e5f5f0e221338c6510d03a5c923b9750476",
+      "4d90e71be6efd8d310900c4546c71796bc9e95f6"
+    ],
+    "parentsAbbrev": [
+      "15e47e5",
+      "4d90e71"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599980133000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599980133000
+    },
+    "subject": "Merge pull request #20 from akihisa1210/css",
+    "body": "use bulma",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "4d90e71be6efd8d310900c4546c71796bc9e95f6",
+    "hashAbbrev": "4d90e71",
+    "tree": "0907b6f63f73b6895654c1728cdf3ba5c9673125",
+    "treeAbbrev": "0907b6f",
+    "parents": [
+      "15e47e5f5f0e221338c6510d03a5c923b9750476"
+    ],
+    "parentsAbbrev": [
+      "15e47e5"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599979729000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599979729000
+    },
+    "subject": "use bulma",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 30,
+        "deletions": 5,
+        "file": "public/index.html"
+      },
+      {
+        "additions": 0,
+        "deletions": 3,
+        "file": "public/styles.css"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "15e47e5f5f0e221338c6510d03a5c923b9750476",
+    "hashAbbrev": "15e47e5",
+    "tree": "ad8cf3bcd807a954bc7cd2c9fcc687d9ad1e8d35",
+    "treeAbbrev": "ad8cf3b",
+    "parents": [
+      "2e679fdc015ac4ac1a46a7d4b0a9fa9867f65ef8",
+      "0ee04b65b3cc85b53249535e9409502336847c08"
+    ],
+    "parentsAbbrev": [
+      "2e679fd",
+      "0ee04b6"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599949009000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599949009000
+    },
+    "subject": "Merge pull request #19 from akihisa1210/contribution-guide",
+    "body": "Contribution guide",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "0ee04b65b3cc85b53249535e9409502336847c08",
+    "hashAbbrev": "0ee04b6",
+    "tree": "ad8cf3bcd807a954bc7cd2c9fcc687d9ad1e8d35",
+    "treeAbbrev": "ad8cf3b",
+    "parents": [
+      "ccef398bbc0b452637bb63e7e3fe9164ab3aead1"
+    ],
+    "parentsAbbrev": [
+      "ccef398"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599948921000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599948921000
+    },
+    "subject": "add status badge",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 2,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "ccef398bbc0b452637bb63e7e3fe9164ab3aead1",
+    "hashAbbrev": "ccef398",
+    "tree": "7ce83f9facde3772461a968a1992f4d37ef938cd",
+    "treeAbbrev": "7ce83f9",
+    "parents": [
+      "2e679fdc015ac4ac1a46a7d4b0a9fa9867f65ef8"
+    ],
+    "parentsAbbrev": [
+      "2e679fd"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599948793000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599948793000
+    },
+    "subject": "update README.md for developer",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 9,
+        "deletions": 1,
+        "file": "README.md"
+      },
+      {
+        "additions": 2,
+        "deletions": 1,
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "2e679fdc015ac4ac1a46a7d4b0a9fa9867f65ef8",
+    "hashAbbrev": "2e679fd",
+    "tree": "d1758cdab116bf6f78c8509038859af1152ed823",
+    "treeAbbrev": "d1758cd",
+    "parents": [
+      "722ce426977f999bce66c16f93a62ef784da62d8",
+      "e9603ac100136b441e6ef978a4c7774f2eef80e0"
+    ],
+    "parentsAbbrev": [
+      "722ce42",
+      "e9603ac"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599948517000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599948517000
+    },
+    "subject": "Merge pull request #18 from akihisa1210/improve-ci",
+    "body": "improve CI",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "e9603ac100136b441e6ef978a4c7774f2eef80e0",
+    "hashAbbrev": "e9603ac",
+    "tree": "d1758cdab116bf6f78c8509038859af1152ed823",
+    "treeAbbrev": "d1758cd",
+    "parents": [
+      "703330c42c1707d028cbe595aa261c8acd408d17"
+    ],
+    "parentsAbbrev": [
+      "703330c"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599948422000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599948422000
+    },
+    "subject": "fix test case",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": ".gitignore"
+      },
+      {
+        "additions": 2,
+        "deletions": 3,
+        "file": "cypress/integration/roulette.js"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "703330c42c1707d028cbe595aa261c8acd408d17",
+    "hashAbbrev": "703330c",
+    "tree": "f6e691056f6aa27fc29658dd87ff0ded0ce35e29",
+    "treeAbbrev": "f6e6910",
+    "parents": [
+      "879547a7bdaccfe71131bb347735c37e8c8029bb"
+    ],
+    "parentsAbbrev": [
+      "879547a"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599947588000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599947958000
+    },
+    "subject": "always upload artifacts",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 3,
+        "deletions": 1,
+        "file": ".github/workflows/continuous-integration.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "879547a7bdaccfe71131bb347735c37e8c8029bb",
+    "hashAbbrev": "879547a",
+    "tree": "2d4919cb3e65979b9f47d9303c4ec034ae72b865",
+    "treeAbbrev": "2d4919c",
+    "parents": [
+      "f483d43a5731c897338965ef46c8cdeaa10c8aab"
+    ],
+    "parentsAbbrev": [
+      "f483d43"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599947269000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599947269000
+    },
+    "subject": "upload error screenshots and videos of e2e test",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 10,
+        "deletions": 0,
+        "file": ".github/workflows/continuous-integration.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "f483d43a5731c897338965ef46c8cdeaa10c8aab",
+    "hashAbbrev": "f483d43",
+    "tree": "cb540f6becfc5673fcfab08023cdae933cbdee93",
+    "treeAbbrev": "cb540f6",
+    "parents": [
+      "722ce426977f999bce66c16f93a62ef784da62d8"
+    ],
+    "parentsAbbrev": [
+      "722ce42"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599946583000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599946704000
+    },
+    "subject": "use cache for npm",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 22,
+        "deletions": 0,
+        "file": ".github/workflows/continuous-integration.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "722ce426977f999bce66c16f93a62ef784da62d8",
+    "hashAbbrev": "722ce42",
+    "tree": "9f2bceb9b6e921e4daa3920aa12c4ba12a7f5d11",
+    "treeAbbrev": "9f2bceb",
+    "parents": [
+      "eceb222a08fea75f08c133d5a23903bea11f5f0d",
+      "0c103390d6ef3f7f0b6c47f710effd7a266e6490"
+    ],
+    "parentsAbbrev": [
+      "eceb222",
+      "0c10339"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599940911000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599940911000
+    },
+    "subject": "Merge pull request #8 from akihisa1210/real-roulette",
+    "body": "random roulette",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "0c103390d6ef3f7f0b6c47f710effd7a266e6490",
+    "hashAbbrev": "0c10339",
+    "tree": "9f2bceb9b6e921e4daa3920aa12c4ba12a7f5d11",
+    "treeAbbrev": "9f2bceb",
+    "parents": [
+      "eceb222a08fea75f08c133d5a23903bea11f5f0d"
+    ],
+    "parentsAbbrev": [
+      "eceb222"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599940811000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599940811000
+    },
+    "subject": "random roulette",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 12,
+        "deletions": 0,
+        "file": "cypress/integration/roulette.js"
+      },
+      {
+        "additions": 4,
+        "deletions": 3,
+        "file": "public/index.js"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "eceb222a08fea75f08c133d5a23903bea11f5f0d",
+    "hashAbbrev": "eceb222",
+    "tree": "642fe09f6bd3fe58087b2af641fa7cd91436d01d",
+    "treeAbbrev": "642fe09",
+    "parents": [
+      "069db952be0610cd98899c65e5db597437d14f44",
+      "11e54705783c1daed546ac74b6f57d0b5572ec5e"
+    ],
+    "parentsAbbrev": [
+      "069db95",
+      "11e5470"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599939021000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599939021000
+    },
+    "subject": "Merge pull request #6 from akihisa1210/mock-roulette",
+    "body": "mock roulette with tests",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "11e54705783c1daed546ac74b6f57d0b5572ec5e",
+    "hashAbbrev": "11e5470",
+    "tree": "642fe09f6bd3fe58087b2af641fa7cd91436d01d",
+    "treeAbbrev": "642fe09",
+    "parents": [
+      "9adc52c81760be5ecc88cbd9805d56241440ac9a"
+    ],
+    "parentsAbbrev": [
+      "9adc52c"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599938791000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599938853000
+    },
+    "subject": "add e2e test to ci",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 15,
+        "deletions": 0,
+        "file": ".github/workflows/continuous-integration.yml"
+      },
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": ".gitignore"
+      },
+      {
+        "additions": 0,
+        "deletions": 0,
+        "file": "cypress/integration/{sample_spec.js => roulette.js}"
+      },
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "9adc52c81760be5ecc88cbd9805d56241440ac9a",
+    "hashAbbrev": "9adc52c",
+    "tree": "a72ae1e89748997a7ce02ae549c6d6145fd74d74",
+    "treeAbbrev": "a72ae1e",
+    "parents": [
+      "a49fd37abe7cfa999c921fbf15f7004199232082"
+    ],
+    "parentsAbbrev": [
+      "a49fd37"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599938349000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599938349000
+    },
+    "subject": "create mock roulette",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 3,
+        "deletions": 4,
+        "file": "cypress/integration/sample_spec.js"
+      },
+      {
+        "additions": 5,
+        "deletions": 3,
+        "file": "public/index.html"
+      },
+      {
+        "additions": 12,
+        "deletions": 1,
+        "file": "public/index.js"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "a49fd37abe7cfa999c921fbf15f7004199232082",
+    "hashAbbrev": "a49fd37",
+    "tree": "cdafb289c678cca483bcbbe4f885e2c3c6c2bcd2",
+    "treeAbbrev": "cdafb28",
+    "parents": [
+      "711e99a080f3bc39f4c47f8e5e8a22ade163c66b"
+    ],
+    "parentsAbbrev": [
+      "711e99a"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599922329000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599922639000
+    },
+    "subject": "introduce cypress",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 2,
+        "deletions": 0,
+        "file": ".eslintrc.js"
+      },
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "cypress.json"
+      },
+      {
+        "additions": 5,
+        "deletions": 0,
+        "file": "cypress/fixtures/example.json"
+      },
+      {
+        "additions": 11,
+        "deletions": 0,
+        "file": "cypress/integration/sample_spec.js"
+      },
+      {
+        "additions": 22,
+        "deletions": 0,
+        "file": "cypress/plugins/index.js"
+      },
+      {
+        "additions": 25,
+        "deletions": 0,
+        "file": "cypress/support/commands.js"
+      },
+      {
+        "additions": 20,
+        "deletions": 0,
+        "file": "cypress/support/index.js"
+      },
+      {
+        "additions": 1525,
+        "deletions": 5,
+        "file": "package-lock.json"
+      },
+      {
+        "additions": 3,
+        "deletions": 0,
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "711e99a080f3bc39f4c47f8e5e8a22ade163c66b",
+    "hashAbbrev": "711e99a",
+    "tree": "d7aaa61c30f518b39e2fb0886006302d36995919",
+    "treeAbbrev": "d7aaa61",
+    "parents": [
+      "069db952be0610cd98899c65e5db597437d14f44"
+    ],
+    "parentsAbbrev": [
+      "069db95"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599919762000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599919762000
+    },
+    "subject": "introduce docker-compose",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 8,
+        "deletions": 0,
+        "file": "docker-compose.yml"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "069db952be0610cd98899c65e5db597437d14f44",
+    "hashAbbrev": "069db95",
+    "tree": "61aa1ebff5ecd2dd5dfd134fed189967d7853897",
+    "treeAbbrev": "61aa1eb",
+    "parents": [
+      "c3066bd7997322fd655e74f70c96bf61c810005c",
+      "e481ca6502133b63e3f9cc2ef3d8c03f497d2eab"
+    ],
+    "parentsAbbrev": [
+      "c3066bd",
+      "e481ca6"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599918049000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599918049000
+    },
+    "subject": "Merge pull request #4 from akihisa1210/setup-ci",
+    "body": "Setup workflow",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "e481ca6502133b63e3f9cc2ef3d8c03f497d2eab",
+    "hashAbbrev": "e481ca6",
+    "tree": "61aa1ebff5ecd2dd5dfd134fed189967d7853897",
+    "treeAbbrev": "61aa1eb",
+    "parents": [
+      "c3066bd7997322fd655e74f70c96bf61c810005c"
+    ],
+    "parentsAbbrev": [
+      "c3066bd"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599917879000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599917879000
+    },
+    "subject": "Setup workflow",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 17,
+        "deletions": 0,
+        "file": ".github/workflows/continuous-integration.yml"
+      },
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "c3066bd7997322fd655e74f70c96bf61c810005c",
+    "hashAbbrev": "c3066bd",
+    "tree": "580a279481c531bb26a688e08eb3fd4e1cfc28ab",
+    "treeAbbrev": "580a279",
+    "parents": [
+      "f6a68b3b867086da547ac67c91e71b0e4f069dc1",
+      "abdf46d7cf42ba27841d0c120d930356de25c304"
+    ],
+    "parentsAbbrev": [
+      "f6a68b3",
+      "abdf46d"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599410733000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599410733000
+    },
+    "subject": "Merge pull request #3 from akihisa1210/lint",
+    "body": "Lint (ESLint and Prettier)",
+    "notes": "",
+    "stats": []
+  },
+  {
+    "refs": [],
+    "hash": "abdf46d7cf42ba27841d0c120d930356de25c304",
+    "hashAbbrev": "abdf46d",
+    "tree": "580a279481c531bb26a688e08eb3fd4e1cfc28ab",
+    "treeAbbrev": "580a279",
+    "parents": [
+      "3fff70a3e23da9f7a0bdad076b404f8eaa5247ba"
+    ],
+    "parentsAbbrev": [
+      "3fff70a"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599410610000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599410610000
+    },
+    "subject": "introduce eslint and prettier",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 12,
+        "deletions": 0,
+        "file": ".eslintrc.js"
+      },
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": ".gitignore"
+      },
+      {
+        "additions": 950,
+        "deletions": 0,
+        "file": "package-lock.json"
+      },
+      {
+        "additions": 7,
+        "deletions": 1,
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "3fff70a3e23da9f7a0bdad076b404f8eaa5247ba",
+    "hashAbbrev": "3fff70a",
+    "tree": "3112d54eb8bf15124d72bd53d8f17f6e1b991d46",
+    "treeAbbrev": "3112d54",
+    "parents": [
+      "f6a68b3b867086da547ac67c91e71b0e4f069dc1"
+    ],
+    "parentsAbbrev": [
+      "f6a68b3"
+    ],
+    "author": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599408219000
+    },
+    "committer": {
+      "name": "akihisa1210",
+      "email": "19635263+akihisa1210@users.noreply.github.com",
+      "timestamp": 1599408291000
+    },
+    "subject": "initial commit",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 19,
+        "deletions": 0,
+        "file": "package.json"
+      },
+      {
+        "additions": 15,
+        "deletions": 0,
+        "file": "public/index.html"
+      },
+      {
+        "additions": 1,
+        "deletions": 0,
+        "file": "public/index.js"
+      },
+      {
+        "additions": 3,
+        "deletions": 0,
+        "file": "public/styles.css"
+      }
+    ]
+  },
+  {
+    "refs": [],
+    "hash": "f6a68b3b867086da547ac67c91e71b0e4f069dc1",
+    "hashAbbrev": "f6a68b3",
+    "tree": "d731fa29f5492d6b1fb470c5260b8eb8ba1a4d7e",
+    "treeAbbrev": "d731fa2",
+    "parents": [],
+    "parentsAbbrev": [],
+    "author": {
+      "name": "akihisa1210",
+      "email": "akihisa-koyama@cybozu.co.jp",
+      "timestamp": 1599376491000
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "timestamp": 1599376491000
+    },
+    "subject": "Initial commit",
+    "body": "",
+    "notes": "",
+    "stats": [
+      {
+        "additions": 2,
+        "deletions": 0,
+        "file": "README.md"
+      }
+    ]
+  }
+]
