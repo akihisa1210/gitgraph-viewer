@@ -3,7 +3,7 @@ import { Gitgraph } from '@gitgraph/react';
 
 import graphData from 'data/export.json';
 
-const Graph2: FC = () => (
+const Graph: FC = () => (
   <Gitgraph>
     {(gitgraph) => {
       gitgraph.import(graphData);
@@ -11,4 +11,4 @@ const Graph2: FC = () => (
   </Gitgraph>
 );
 
-export default Graph2;
+export default Graph;
